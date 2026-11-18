@@ -1,0 +1,6 @@
+pandas
+openpyxl
+sqlalchemy
+yfinance
+pymysql        # لو MySQL
+pyodbc         # لو SQL Server
